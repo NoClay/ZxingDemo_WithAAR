@@ -1,0 +1,2 @@
+# ZxingDemo_WithAAR
+一个导入Zxing的Demo，利用Android Studio导出了一个aar文件，可以更加方便的导入zxing
